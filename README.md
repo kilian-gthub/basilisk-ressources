@@ -15,4 +15,4 @@ The [ressources](ressources/) directory contains figures and illustrations used 
 
 ---
 
-**Kilian Polge**
+**Kilian POLGE**
