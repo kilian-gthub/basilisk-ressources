@@ -1,6 +1,6 @@
 # Basilisk Resources – Granular Flow Simulations
 
-Resources associated with a research project on the numerical simulation of granular flows using [Basilisk](https://basilisk.fr/).
+Resources associated with a research project on the numerical simulation of granular flows using [Basilisk]([https://basilisk.fr/](https://basilisk.fr/sandbox/Kilian/)).
 
 The project focuses on numerical modelling, convergence studies and comparisons with experimental results and other numerical approaches, including SHALTOP and HYSEA.
 
@@ -15,4 +15,4 @@ The [ressources](ressources/) directory contains figures and illustrations used 
 
 ---
 
-**Kilian Polge-Poulichet**
+**Kilian Polge**
